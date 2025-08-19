@@ -1,1 +1,1 @@
-# event-finder-dotnet-react
+# activity-finder-dotnet-react
