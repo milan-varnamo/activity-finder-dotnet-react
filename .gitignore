@@ -77,3 +77,5 @@ ehthumbs.db
 .vs/
 appsettings.json
 activityfinder.db
+*.db-shm
+*.db-wal
