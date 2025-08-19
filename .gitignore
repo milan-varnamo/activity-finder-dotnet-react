@@ -75,3 +75,5 @@ ehthumbs.db
 
 # Visual Studio cache
 .vs/
+appsettings.json
+activityfinder.db
